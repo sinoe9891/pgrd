@@ -25,17 +25,18 @@
 
 .ammapDescriptionTitle
 {
-   font-size:12px;
+   font-size:7.5px;
    font-weight:bold;
    font-family:verdana,helvetica,arial,sans-serif;
    padding-bottom:5px;
    color:#5FA79D;
-  line-height: 1;
+   line-height: 1;
+
 }
 
 .ammapDescriptionText
 {
-  font-size:12px;
+  font-size:7px;
   font-weight:bold;
   font-family:verdana,helvetica,arial,sans-serif;
   padding-bottom:5px;
